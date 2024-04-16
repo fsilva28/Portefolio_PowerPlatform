@@ -1,2 +1,0 @@
-# Portefolio_PowerPlatform
- 
