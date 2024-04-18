@@ -6,7 +6,7 @@ Home Page - The text label generates a welcome message by fetching the name asso
 
 ![Captura de ecrã 2024-04-18 165236](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/e5f5298c-2e85-40f6-967d-c00990b1efbe)
 
-Recover Password Page - The button "Recuperar Password" updates a user's password in a database, checks if the update was successful, notifies the user accordingly, and then resets input fields and clears a username variable.
+Report Page - In this page an BI Report is embedded, allowing users to navigate through the report analyzing various informations enabling them to collect insights.
 
 ![Captura de ecrã 2024-04-18 165256](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/ff53769b-6114-49dd-bf72-3ec1011a5b9c)
 
