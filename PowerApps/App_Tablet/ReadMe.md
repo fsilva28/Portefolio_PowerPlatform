@@ -10,6 +10,8 @@ Report Page - In this page an BI Report is embedded, allowing users to navigate 
 
 ![Captura de ecrã 2024-04-18 165256](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/ff53769b-6114-49dd-bf72-3ec1011a5b9c)
 
+User Management page - In this page a gallery, feeded by the Users_Info table shows information about users (picture, name, username, password and user type). Users are able to create, edit or delete data.
+
 ![Captura de ecrã 2024-04-18 165308](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/312a8dc8-b1a6-4d19-8a31-47081963bef5)
 
 ![Captura de ecrã 2024-04-18 165333](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/19984189-b7e6-41ae-babb-cd273f270b76)
