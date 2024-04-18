@@ -22,6 +22,10 @@ Gym_Management Page - This page contains a Camera component, a button that captu
 
 ![Captura de ecrã 2024-04-18 122642](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/73ca8331-b39b-4a5a-b7d6-6dfe320cda2d)
 
+Gym_Management_Gallery Page - In this page there is a gallery with the pictures taken in the previous page, the status and a text input that allows the user to write some observations. There are two buttons: one enables the deletion of pictures; the other updates or creates records in "Manutencaos" with values from variables, current date, image data, dropdown selection, and text input. Afterward, it navigates the user to the "Checks_List" screen with a fade transition.
+
 ![Captura de ecrã 2024-04-18 122933](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/abceb109-46a4-491f-8c78-cc792baa1382)
+
+The flow chart of the app shows that after login, the users are directed to the home page (login page can also direct users to the recover password page). Once in the Home Page, users are able to navigate to the Checks_Local page through a button on the header of the page. From there, users can navigate back or procede to Gym_Management page from where they're directed to the Gym_Management_Gallery and from there to the Checks_List page. At any time, users have the possibility to navigate to the Home page via a button on the header.
 
 ![ScreenNavigation](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/58fbf0a2-0d66-40b8-89db-19cd9f4501b7)
