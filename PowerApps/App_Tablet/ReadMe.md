@@ -14,6 +14,10 @@ User Management page - In this page a gallery, feeded by the Users_Info table sh
 
 ![Captura de ecrã 2024-04-18 165308](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/312a8dc8-b1a6-4d19-8a31-47081963bef5)
 
+Gym Management page - This page hosts a gallery with the pictures taken in the mobile app, displaying the date of creation, the text input and the status (the only item users have permission to change). The button updates a record in the "Manutencaos" data source, finding the record based on specific criteria, and modifies its fields with new values provided. After the update, it refreshes the "Manutencaos" data source to ensure the changes are reflected.
+
 ![Captura de ecrã 2024-04-18 165333](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/19984189-b7e6-41ae-babb-cd273f270b76)
+
+Change Log page - this page has a gallery, with data from a SharePoint list, displaying the versions of the app (version number, date, and modifications). 
 
 ![Captura de ecrã 2024-04-18 165354](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/e437aea5-6a00-4ab8-9f5d-228b598eda71)
