@@ -10,11 +10,15 @@ Recover Password Page - The button "Recuperar Password" updates a user's passwor
 
 ![Captura de ecrã 2024-04-18 122534](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/3da8c6c6-6e58-44be-9b3b-8809c8b6a920)
 
-Gym_Management Page - This page contains a Camera component, a button that captures pictures, adding them to a collection, 
+Checks_Local Page - This page contains three buttons, redirecting to Checks_List Page. 
 
 ![Captura de ecrã 2024-04-18 122551](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/0d7fa6f9-090c-4df6-8454-faec1430ed28)
 
+Chekcs_List Page - this page is directly related to the previous page, opening information according to the selection on Checks_Local page. It allows a navigate to Gym_Management page, and to check a toggle regarding the existence of pictures. The "Enviar registo" button updates or creates records in "ItemsRegisters" with values from variables and toggles, clears uploaded photos, and refreshes maintenance records.
+
 ![Captura de ecrã 2024-04-18 122603](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/655fba7f-b4c4-42d0-9589-a3ffa1cd470c)
+
+Gym_Management Page - This page contains a Camera component, a button that captures pictures, adding them to a collection. The last picture taken is shown giving the user the option to navigate to the Gym_Management_Gallery Page or deleting the last picture taken.
 
 ![Captura de ecrã 2024-04-18 122642](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/73ca8331-b39b-4a5a-b7d6-6dfe320cda2d)
 
