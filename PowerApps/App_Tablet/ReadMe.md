@@ -1,4 +1,4 @@
-![Captura de ecrã 2024-04-18 165354](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/3da93542-5449-4acb-8298-8fd7bcf53cc0)
+![Captura de ecrã 2024-04-18 165210](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/dedde6ad-9818-4d7f-a780-dbce043d3207)
 
 ![Captura de ecrã 2024-04-18 165236](https://github.com/fsilva28/Portefolio_PowerPlatform/assets/159443064/e5f5298c-2e85-40f6-967d-c00990b1efbe)
 
